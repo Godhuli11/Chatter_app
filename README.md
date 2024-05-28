@@ -1,6 +1,6 @@
-# my_threads
+# Chatter 
 
-A new Flutter project.
+Chatter is a social networking app that provides a platform for real-time text updates and public conversations, leveraging a microblogging framework with integrated support for multimedia content and robust engagement features.
 
 ## Getting Started
 
