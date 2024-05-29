@@ -23,7 +23,8 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot 2024-05-29 052306](https://github.com/Godhuli11/Chatter_app/assets/85281252/9588f864-ca68-4a76-83e8-d16134747de2)
 ![Screenshot 2024-05-29 052329](https://github.com/Godhuli11/Chatter_app/assets/85281252/6bbf9e15-17b8-48db-b085-bd144bdab72a)
 
-
+## Features
+• Fast loading time • Animated PageView • Responsive layout • Integration with SupaBase backend • SupaBase functionalities for user notifications management • Live Notification Updates • Engagement Features
 
 
 
