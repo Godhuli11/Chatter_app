@@ -17,4 +17,14 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 ![Screenshot 2024-05-29 051629](https://github.com/Godhuli11/Chatter_app/assets/85281252/6cfa6a5d-e661-4028-b6f1-891e5fc144a4)
+![Screenshot 2024-05-29 051938](https://github.com/Godhuli11/Chatter_app/assets/85281252/0f932756-ecc9-4096-bc9d-a35f3e
+![Screenshot 2024-05-29 052206](https://github.com/Godhuli11/Chatter_app/assets/85281252/add5d288-3738-4a6b-af0c-a2bb2f32a349)
+dc5bf3)
+![Screenshot 2024-05-29 052244](https://github.com/Godhuli11/Chatter_app/assets/85281252/14db4003-2898-4437-9b3a-864d9ca4ab29)
+![Screenshot 2024-05-29 052306](https://github.com/Godhuli11/Chatter_app/assets/85281252/9588f864-ca68-4a76-83e8-d16134747de2)
+![Screenshot 2024-05-29 052329](https://github.com/Godhuli11/Chatter_app/assets/85281252/6bbf9e15-17b8-48db-b085-bd144bdab72a)
+
+
+
+
 
